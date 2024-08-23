@@ -17,4 +17,3 @@ public class User {
     private LocalDateTime dateRegistered;
 
 }
-//h
